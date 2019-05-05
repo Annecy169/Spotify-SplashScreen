@@ -24,6 +24,7 @@
   align-items: center;
   display: flex;
   color: #333;
+  background-color: white;
   z-index: -1;
 }
 .player .controls .bar {
